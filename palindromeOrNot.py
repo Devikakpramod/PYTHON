@@ -9,6 +9,6 @@ while(num != 0):
     num = num // 10
     
 if(temp == rev):
-    print("it is a palandrome")
+    print("it is a palindrome")
 else:
-    print("it is not a palendrome")
+    print("it is not a palindrome")
